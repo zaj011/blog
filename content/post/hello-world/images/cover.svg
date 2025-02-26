@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="600">
+  <!-- 背景 -->
+  <rect width="1200" height="600" fill="#1a1a1a"/>
+  
+  <!-- 装饰性网格 -->
+  <g stroke="#333" stroke-width="1">
+    <path d="M0 100 H1200 M0 200 H1200 M0 300 H1200 M0 400 H1200 M0 500 H1200"/>
+    <path d="M100 0 V600 M200 0 V600 M300 0 V600 M400 0 V600 M500 0 V600 
+             M600 0 V600 M700 0 V600 M800 0 V600 M900 0 V600 M1000 0 V600 M1100 0 V600"/>
+  </g>
+
+  <!-- 主标题 -->
+  <text x="600" y="200" font-family="Arial" font-size="80" fill="#4A90E2" text-anchor="middle">开启AI学习之旅</text>
+  
+  <!-- 副标题 -->
+  <text x="600" y="300" font-family="Arial" font-size="40" fill="#666" text-anchor="middle">探索人工智能的无限可能</text>
+
+  <!-- 装饰性图形 -->
+  <g fill="none" stroke="#4A90E2" stroke-width="2">
+    <circle cx="200" cy="400" r="50"/>
+    <circle cx="1000" cy="200" r="50"/>
+    <path d="M180 400 L220 400 M200 380 L200 420"/>
+    <path d="M980 200 L1020 200 M1000 180 L1000 220"/>
+  </g>
+
+  <!-- 连接线 -->
+  <path d="M250 400 Q600 500 950 200" stroke="#4A90E2" stroke-width="2" fill="none"/>
+</svg> 
